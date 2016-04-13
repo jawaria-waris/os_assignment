@@ -1,3 +1,4 @@
+#this is srtf code
 import time
 def data_read(li):
 	f=open('file.txt')
